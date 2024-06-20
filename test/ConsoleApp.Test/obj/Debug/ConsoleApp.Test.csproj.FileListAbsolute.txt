@@ -1,0 +1,7 @@
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\bin\Debug\ConsoleApp.Test.exe.config
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\bin\Debug\ConsoleApp.Test.exe
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\bin\Debug\ConsoleApp.Test.pdb
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\obj\Debug\ConsoleApp.Test.csproj.AssemblyReference.cache
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\obj\Debug\ConsoleApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\obj\Debug\ConsoleApp.Test.exe
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\test\ConsoleApp.Test\obj\Debug\ConsoleApp.Test.pdb
